@@ -6,8 +6,8 @@
 tasks.db
 tasks.json
 go.sum
-.vscode
 *.log
 node_modules
 dist
 build
+config.bat
